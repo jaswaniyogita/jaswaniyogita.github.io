@@ -195,4 +195,3 @@ export const materialTealTheme = {
 };
 
 export const chosenTheme = blueTheme;
-Footer
